@@ -1,0 +1,1 @@
+Always follow SEI CERT Java Coding Standard for Java code.
